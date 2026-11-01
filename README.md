@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Olá, sou o Getúlio Silva Maciel 👋</h1>
   <p><b>Desenvolvedor em Formação & Analista de Sistemas</b></p>
-  <p>Focado em construir bases sólidas, aprender desenvolvimento web e automações eficientes.</p>
+  <p>Focado em construir bases sólidas, aprender desenvolvimento web, automações e inteligência artificial.</p>
   
   <p>
     <a href="https://linkedin.com/in/getuliosm">
@@ -16,15 +16,16 @@
 ---
 
 ### 🌱 O que estou estudando atualmente
-No momento, estou focado em consolidar a minha base e praticar o desenvolvimento de verdade nas seguintes tecnologias:
+No momento, estou focado em consolidar a minha base e praticar o desenvolvimento e o uso de tecnologias modernas:
 
 * **Linguagens & Front-end:** `HTML5`, `CSS3`, `JavaScript`
+* **Inteligência Artificial & Produtividade:** `Engenharia de Prompt`, `Ferramentas de IA`
 * **Ferramentas & Ambiente:** `Git`, `GitHub`, `Linux Mint`
 
 ### 🚀 Meus Próximos Passos
-* Praticar lógica de programação diariamente.
+* Praticar lógica de programação e desenvolvimento web diariamente.
+* Explorar o potencial de IA e engenharia de prompt para otimizar fluxos e soluções.
 * Criar pequenos projetos reais do zero para fixar o aprendizado.
-* Evoluir gradualmente para outras tecnologias no seu devido tempo.
 
 ---
 
