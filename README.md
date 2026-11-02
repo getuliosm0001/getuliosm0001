@@ -29,7 +29,7 @@ No momento, estou focado em consolidar a minha base prática no desenvolvimento 
 * **Inteligência Artificial & Produtividade:** `Engenharia de Prompt`, `Ferramentas de IA`
 * **Ferramentas & Ambiente:** `Git`, `GitHub`, `Linux Mint`
 
-### 🚀 Meus Próximos Passos
+### Meus Próximos Passos
 * Praticar lógica de programação e desenvolvimento web diariamente.
 * Explorar o potencial de IA e engenharia de prompt para otimizar fluxos e soluções.
 * Criar pequenos projetos reais do zero para fixar o aprendizado prático.
