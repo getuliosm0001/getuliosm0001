@@ -18,11 +18,11 @@
 
 ---
 
-### 💼 Status profissional
-* **Aberto a novas Oportunidades & Propostas de Emprego** 🚀
+### Status profissional
+* **Aberto a novas Oportunidades & Propostas de Emprego**
 * **Contato direto:** (84) 9 8655-2021 (WhatsApp)
 
-### 🌱 O que estou estudando e praticando atualmente
+### O que estou estudando e praticando atualmente
 No momento, estou focado em consolidar a minha base prática no desenvolvimento e no uso de tecnologias modernas:
 
 * **Linguagens & Front-end:** `HTML5`, `CSS3`, `JavaScript`
