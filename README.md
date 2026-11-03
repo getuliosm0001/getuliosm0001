@@ -53,7 +53,6 @@ Aqui estão os meus comprovantes de formação acadêmica e cursos complementare
 | Categoria | Certificado / Curso | Instituição | Acesso |
 | :--- | :--- | :--- | :--- |
 | **Graduação** | Certificado de Graduação | UNICID | [![Ver Diploma](https://img.shields.io/badge/Ver_Diploma-00E599?style=flat-square&logo=adobe-acrobat-reader&logoColor=black)](02%20-%20GETÚLIO%20SILVA%20MACIEL%20-%20CERTIFICADO%20CURSO%20SUPERIOR.pdf) |
-| **Front-end** | HTML - Básico | Fundação Bradesco | [![Ver Certificado](https://img.shields.io/badge/Ver_Certificado-00E599?style=flat-square&logo=adobe-acrobat-reader&logoColor=black)](certificado-html-bradesco.pdf) |
 
 </div>
 
