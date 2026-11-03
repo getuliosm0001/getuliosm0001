@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, sou o Getúlio Silva Maciel 👋</h1>
+  <h1>Olá, sou o Getúlio Silva Maciel </h1>
   <p><b>Analista de Sistemas & Desenvolvedor</b></p>
   <p>Graduado em Análise e Desenvolvimento de Sistemas, focado em construir bases sólidas, aprender desenvolvimento web, automações e inteligência artificial.</p>
   
