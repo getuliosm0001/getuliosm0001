@@ -30,8 +30,8 @@ No momento, estou focado em consolidar a minha base prática no desenvolvimento 
 - **Linguagens & Front-end:** `HTML5`, `CSS3`, `JavaScript`
 
 - **Inteligência Artificial & Produtividade:** `Engenharia de Prompt`, `Ferramentas de IA`
-
-- **Ferramentas & Ambiente:** `Git`, `GitHub`, `Linux Mint`
+- 
+- **Ferramentas & Ambiente:** `Git`, `GitHub`, `Linux`, `Windows`
 
 
 ### Meus Próximos Passos
